@@ -62,3 +62,10 @@ I'd like to X so that Y
 #### As a Persona  Three:
 I'd like to X so that Y
 
+## User Research
+### I used [User Research #00](www.designkit.org/methods/00) To conduct the following research:
+this is notes from the research.
+
+this is what I learned.
+
+This is how tweaked my storify work to reflect that research
