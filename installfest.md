@@ -1,4 +1,4 @@
-#My Installfest Notes
+# My Installfest Notes
 ## To Complete Installfest I did the following: 
 
 - [x] Learned about how to use my terminal
